@@ -3,6 +3,6 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="WPF Application" Height="350" Width="525">
     <Grid>
-        <Button Content="Click Me" HorizontalAlignment="Center" VerticalAlignment="Center" Click="Button_Click"/>
+        <Button Content="Click Me" HorizontalAlignment="Center" VerticalAlignment="Center" Click=""/>
     </Grid>
 </Window>
